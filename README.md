@@ -1,7 +1,5 @@
 # micro-services
 
-Je suis une licorne
-
 micro-services : article, categories, eureka, gateaway, commentaire, auteur, client
 
 git clone
