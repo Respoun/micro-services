@@ -1,6 +1,4 @@
-# micro-services
-
-micro-services : article, categories, eureka, gateaway, commentaire, auteur, client
+# micro-services Guillaume Fitamant & Antoine HALLER
 
 git clone
 git status 
