@@ -1,4 +1,4 @@
-# micro-services Guillaume Fitamant & Antoine HALLER
+# Projet Micro-services Guillaume Fitamant & Antoine HALLER
 
 git clone
 git status 
